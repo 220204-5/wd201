@@ -1,2 +1,5 @@
-let hello = "Hello GitHub!";
-console.log(hello);
+const hello = () => {
+    console.log("Hello GitHub!");
+};
+
+hello();
